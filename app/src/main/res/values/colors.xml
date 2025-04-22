@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary brand colors -->
+    <color name="colorPrimary">#4361EE</color>
+    <color name="colorPrimaryDark">#3A56D4</color>
+    <color name="colorAccent">#F72585</color>
+    <color name="colorBackground">#F8F9FA</color>
+
+    <!-- Text colors -->
+    <color name="textPrimary">#212529</color>
+    <color name="textSecondary">#6C757D</color>
+    <color name="textLight">#FFFFFF</color>
+
+    <!-- Status colors -->
+    <color name="taskStatusPending">#FCA311</color>
+    <color name="taskStatusInProgress">#4361EE</color>
+    <color name="taskStatusCompleted">#2EC4B6</color>
+
+    <!-- Card colors -->
+    <color name="cardBackground">#FFFFFF</color>
+    <color name="cardBorder">#E9ECEF</color>
+
+    <!-- Common colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="shadowColor">#14000000</color>
+</resources>
